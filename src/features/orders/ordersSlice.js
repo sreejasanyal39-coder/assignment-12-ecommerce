@@ -58,3 +58,4 @@ export const selectOrders = (state) => state.orders.orders;
 export const selectCurrentOrder = (state) => state.orders.currentOrder;
 export const selectIsCheckoutOpen = (state) => state.orders.isCheckoutOpen;
 export const selectIsOrderHistoryOpen = (state) => state.orders.isOrderHistoryOpen;
+

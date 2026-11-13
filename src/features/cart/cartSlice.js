@@ -128,3 +128,4 @@ export const selectCartFinalPrice = createSelector(
     return Math.round((discounted + tax) * 100) / 100;
   }
 );
+

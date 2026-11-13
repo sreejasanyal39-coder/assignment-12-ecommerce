@@ -180,3 +180,4 @@ export const MOCK_PRODUCTS = [
     rating: { rate: 3.6, count: 145 }
   }
 ];
+

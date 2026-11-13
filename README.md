@@ -1,5 +1,8 @@
 # Assignment 12: Redux Toolkit E-Commerce Application
 
+**🌐 Live Demo:** [https://assignment-12-ecommerce-three.vercel.app](https://assignment-12-ecommerce-three.vercel.app)  
+**📦 GitHub Repository:** [https://github.com/sreejasanyal39-coder/assignment-12-ecommerce](https://github.com/sreejasanyal39-coder/assignment-12-ecommerce)  
+
 **Submitted By:** Sreeja Sanyal  
 **Student ID:** 231001102019  
 **Program:** BCA(H)  
@@ -48,3 +51,4 @@ npm run dev
 # Production build
 npm run build
 ```
+

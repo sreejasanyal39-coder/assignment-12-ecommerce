@@ -175,3 +175,4 @@ export default function Navbar({ onOpenInspector, onOpenTests }) {
     </header>
   );
 }
+
